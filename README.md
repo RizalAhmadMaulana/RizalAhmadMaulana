@@ -1,3 +1,6 @@
+# 💫 About Me:
+👋👋 Hi, I'm Rizal Ahmad Maulana! 👋 👋<br>I am a Computer Science Student at Universitas Dian Nuswantoro (UDINUS) with a strong passion for IT and Programming. Specialized in Odoo ERP and Web Development. Currently honing my skills to build efficient and scalable software solutions.
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/17hQyqMVBj/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rizalram05/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rizal-ahmad-maulana-1141832b8/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rizalram100@gmail.com) 
