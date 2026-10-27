@@ -18,7 +18,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=RizalAhmadMaulana&icon=4&color=0)](https://visitcount.itsvg.in)
 
-(![Spotify recently played]https://spotify-recently-played.jeffreyca.workers.dev/svg?user=p5idqscj3xsps2vpa7bd24ozh)
+(![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=p5idqscj3xsps2vpa7bd24ozh)
 
 ###
 
