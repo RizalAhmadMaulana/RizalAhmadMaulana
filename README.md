@@ -10,17 +10,16 @@ I have a keen interest in system architecture, automated messaging gateways, rea
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rizalram05/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/17hQyqMVBj/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizalram100@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=RizalAhmadMaulana&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 ---
 
 ## Focus
 
-* Odoo Technical Development & Custom ERP Modules
-* Full-Stack Web Application Development
-* RESTful API & Host-to-Host (H2H) System Integration
-* Real-Time Systems & Automated Gateways
-* Software Engineering & Database Architecture
+- Odoo Technical Development & Custom ERP Modules
+- Full-Stack Web Application Development
+- RESTful API & Host-to-Host (H2H) System Integration
+- Real-Time Systems & Automated Gateways
+- Software Engineering & Database Architecture
 
 ---
 
@@ -98,17 +97,4 @@ I have a keen interest in system architecture, automated messaging gateways, rea
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RizalAhmadMaulana&theme=algolia&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RizalAhmadMaulana&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RizalAhmadMaulana/RizalAhmadMaulana/output/snake.svg" alt="Snake animation" />
-</p>
+  <img src="
