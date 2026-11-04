@@ -10,6 +10,7 @@ I have a keen interest in system architecture, automated messaging gateways, rea
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rizalram05/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/17hQyqMVBj/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizalram100@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=RizalAhmadMaulana&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 ---
 
@@ -65,8 +66,6 @@ I have a keen interest in system architecture, automated messaging gateways, rea
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=WordPress&logoColor=white)
 
 </details>
@@ -77,15 +76,11 @@ I have a keen interest in system architecture, automated messaging gateways, rea
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=black)
 
 </details>
 
@@ -97,27 +92,23 @@ I have a keen interest in system architecture, automated messaging gateways, rea
   <small>Development activity and languages across my GitHub repositories</small>
 </p>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RizalAhmadMaulana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizalAhmadMaulana&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RizalAhmadMaulana&show_icons=true&theme=algolia&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RizalAhmadMaulana&layout=compact&langs_count=8&theme=algolia&hide_border=true" alt="Most Used Languages" />
+</p>
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=RizalAhmadMaulana&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RizalAhmadMaulana&theme=algolia&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## Contribution Graph
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RizalAhmadMaulana&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/RizalAhmadMaulana/RizalAhmadMaulana/output/snake.svg" alt="Snake animation" />
-</div>
-
-<br>
-
-<div align="right">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=RizalAhmadMaulana&icon=0&color=12" alt="Profile Views" />
-  </a>
-</div>
+</p>
