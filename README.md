@@ -15,11 +15,11 @@ I have a keen interest in system architecture, automated messaging gateways, rea
 
 ## Focus
 
-- Odoo Technical Development & Custom ERP Modules
-- Full-Stack Web Application Development
-- RESTful API & Host-to-Host (H2H) System Integration
-- Real-Time Systems & Automated Gateways
-- Software Engineering & Database Architecture
+* Odoo Technical Development & Custom ERP Modules
+* Full-Stack Web Application Development
+* RESTful API & Host-to-Host (H2H) System Integration
+* Real-Time Systems & Automated Gateways
+* Software Engineering & Database Architecture
 
 ---
 
@@ -97,4 +97,17 @@ I have a keen interest in system architecture, automated messaging gateways, rea
 </p>
 
 <p align="center">
-  <img src="
+  <img src="https://streak-stats.demolab.com?user=RizalAhmadMaulana&theme=algolia&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RizalAhmadMaulana&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RizalAhmadMaulana/RizalAhmadMaulana/output/snake.svg" alt="Snake animation" />
+</p>
