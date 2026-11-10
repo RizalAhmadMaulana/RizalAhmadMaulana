@@ -1,4 +1,4 @@
-# Hi there, I'm Rizal Ahmad Maulana
+# Hi, I'm Rizal Ahmad Maulana
 
 I am an Informatics Engineering student at **Universitas Dian Nuswantoro (UDINUS)** with a strong focus on software engineering, enterprise resource planning, and full-stack web architecture. I specialize in developing custom modules and Host-to-Host (H2H) API integrations within **Odoo Community ERP**, alongside building scalable web applications using Python (Django) and modern JavaScript frameworks (React.js, Node.js). 
 
