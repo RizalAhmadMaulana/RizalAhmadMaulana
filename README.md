@@ -20,7 +20,7 @@ I have a keen interest in system architecture, automated messaging gateways, rea
 * Real-Time Systems & Automated Gateways
 * Software Engineering & Database Architecture
 
----
+----
 
 ## Tech Stack
 
