@@ -14,8 +14,8 @@ I have a keen interest in system architecture, automated messaging gateways, rea
 
 ## Focus
 
-* Odoo Technical Development & Custom ERP Modules
-* Full-Stack Web Application Development
+* Odoo Technical Development & Custom ERP Modules.
+* Full-Stack Web Application Development.
 * RESTful API & Host-to-Host (H2H) System Integration
 * Real-Time Systems & Automated Gateways
 * Software Engineering & Database Architecture
